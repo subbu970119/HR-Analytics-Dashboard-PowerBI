@@ -16,7 +16,7 @@ Tables: `Employees`, `Recruitment`, `Performance`, `Satisfaction`, `Attrition`.
 Power BI Desktop, DAX measures, Power Query, data modelling.
 
 ## Key Insights
-- _Add 3-4 findings here (e.g. department with the highest attrition)._
+Highest profit month was X” or “Expenses are mostly Y
 
 ## Screenshots
 ![HR Overview](screenshots/hr_overview.png)
